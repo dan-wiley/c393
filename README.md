@@ -4,6 +4,7 @@
 ### Hader 3
 
 ```sh
+sudo yum update # dont forget to update before new package
 sudo yum install docker -y
 # added -y to auto install for docker image build ....
 ```
